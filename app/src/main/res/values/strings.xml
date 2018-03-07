@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppShare</string>
+    <string name="Share">Share to your contacts</string>
+    <string name="sharePageTitle">Great! Now share our app to more contacts</string>
+    <string name="shareQuestion">How to Share?</string>
+    <string name="point_1">1. First You have to tap on the button.</string>
+    <string name="point_2">2. Select any app through which you would like to share.</string>
+    <string name="point_3">3. Then, You can share an app successfully!!</string>
+    <string name="tap_share"><![CDATA[Tap & Share]]></string>
+</resources>
